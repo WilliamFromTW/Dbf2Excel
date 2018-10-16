@@ -1,0 +1,6 @@
+v1.0 - 2018/10/16       
+--
+main library include:    
+jdbf 2.1.0 (https://github.com/iryndin/jdbf)    
+InMethodTools (https://bitbucket.org/inmethod/inmethodtools)    
+use InMethodJakarta (https://bitbucket.org/inmethod/inmethodjakarta)    
