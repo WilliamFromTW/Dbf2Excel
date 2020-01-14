@@ -16,8 +16,8 @@ ps. root permission is requirement in linux platform
       
 ## Reference    
 jdbf 2.1.0 (https://github.com/iryndin/jdbf)    
-InMethodTools (https://bitbucket.org/inmethod/inmethodtools)    
-use InMethodJakarta (https://bitbucket.org/inmethod/inmethodjakarta)    
+InMethodTools (https://github.com/WilliamFromTW/JavaTools)    
+use InMethodJakarta (https://github.com/WilliamFromTW/Jakarta)    
 
 ## Support Platform    
 1. Windows 7 64bits or above    
